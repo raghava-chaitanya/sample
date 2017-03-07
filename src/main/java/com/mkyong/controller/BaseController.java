@@ -20,7 +20,7 @@ public class BaseController {
 		model.addAttribute("message", "Welcome");
 		model.addAttribute("counter", ++counter);
 		logger.debug("[welcome] counter : {}", counter);
-
+		System.out.println("Hello world");
 		// Spring uses InternalResourceViewResolver and return back index.jsp
 		return VIEW_INDEX;
 
