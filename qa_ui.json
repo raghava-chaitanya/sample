@@ -9,14 +9,14 @@
   },
    {
     "ParameterKey": "KeyName",
-    "ParameterValue": "awskey"
+    "ParameterValue": "tomcatkey"
    },
   {
      "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-e5575dac"
+    "ParameterValue": "subnet-d186b489"
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-1c01cb63"
+    "ParameterValue": "sg-3ffbe147"
   }
 ]
